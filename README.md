@@ -7,4 +7,4 @@ En este enlace se puede validar el ultimo desafío del modulo, que contiene enla
 
 https://diego-sanhueza.github.io/portafolio_Diego_agosto_2022/
 
-** Esta página irá cambiando a los largo del bootcamp **
+** Esta página irá cambiando a lo largo del bootcamp **
